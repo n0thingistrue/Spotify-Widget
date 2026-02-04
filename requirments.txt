@@ -1,0 +1,4 @@
+PyQt6==6.7.1
+winsdk==1.0.0b10
+pycaw==20240210
+comtypes==1.4.1
