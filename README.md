@@ -4,7 +4,7 @@ Want to upgrade your desktop?
 
 A beautiful, customizable desktop widget that brings Spotify controls right to your fingertips. Built with PyQt6 and featuring a stunning glassmorphism design.
 
-![Spotify Widget Demo](screenshots/DEMO1.png)
+![Spotify Widget Demo](screenshots/DEMO.gif)
 
 ## ✨ Features
 
